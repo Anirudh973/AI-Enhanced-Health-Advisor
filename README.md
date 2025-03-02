@@ -44,7 +44,7 @@ Installation
 ------------
 1. **Clone the Repository**
    git clone https://github.com/coleam00/ottomator-agents.git
-   cd ottomator-agents/crawl4AI-agent
+   cd AI-Enhanced-Health-Advisor
 
 2. **Create and Activate a Virtual Environment (Recommended)**
    python -m venv venv
@@ -118,11 +118,6 @@ Contributing
 3. **Commit** your changes with clear commit messages.
 4. **Push** to your fork.
 5. **Open a Pull Request** in the original repository.
-
-License
--------
-This project is licensed under the [MIT License](LICENSE).
-Please note that while the tool references NHS content, it is **not** an official NHS product.
 
 Disclaimer
 ----------
